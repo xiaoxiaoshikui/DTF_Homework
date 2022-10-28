@@ -1,0 +1,58 @@
+C:\>doskey /history = 10
+Invalid macro definition.
+help dir
+dir /s/p *.png
+dir /s /p echo
+where help
+\where echo
+where path
+where path.txt
+where echo
+where help
+help where
+where /?
+where /t echo
+where /F echo.exe
+where ping
+where dir
+where echo
+dir /s /p echo.exe
+get-process
+Get-process
+Get-Process
+tasklist
+dir /s /p stremio tasklist
+tasklist
+Get-process stremio
+C:\> Get-Process explorer
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName
+-------  ------    -----      -----     ------     --  -- -----------
+Get-Process explorer
+dir /s /p stremio | tasklist
+tasklist | dir /s /p chrome
+tasklist | finstr "chrome.exe"
+tasklist | findstr "chrome.exe"
+get-history
+doskey /history
+doskey help
+help doskey
+doskey /history 5
+doskey /MACROS 5
+doskey /listsize 5
+doskey /listsize=5
+doskey /history
+doskey 10 /history
+dosket /listsize=1000
+doskey /listsize=1000
+doskey /h
+doskey /h 10
+doskey /h |10
+doskey /h=10
+doskey /hsitory = 10
+doskey /history = 10
+
+C:\>doskey /h > command.txt
+Access is denied.
+
+C:\>doskey /h -> command.txt
+Access is denied.
